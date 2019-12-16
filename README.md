@@ -1,4 +1,4 @@
-# hadoop_scripts
+# Hadoop Scripts
 This repository contains script for installing different big data components in Ubuntu 18.04
 This repository contains the following folders and files:
 - **credentials.txt** this file contains the credentials for the hadoop user 
